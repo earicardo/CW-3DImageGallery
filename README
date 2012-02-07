@@ -12,6 +12,8 @@ Create a CSS-only image gallery
 
 - must transition at least 3 properties (including both 3D transforms) when hovering over an image/image container
 
+- you know what? throw a 3D transform and transition on your gallery title as well - let's do this
+
 - layout should be responsive - images should float next to each other and wrap to the next line when the screen shrinks
 
 - must render/function correctly in WebKit (Chrome/Safari) only
