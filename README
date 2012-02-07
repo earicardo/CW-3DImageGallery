@@ -1,0 +1,19 @@
+Create a CSS-only image gallery
+
+- minimum of 6 images, all of the same dimensions (search flickr for instagram?)
+
+- keep images external (don't bloat your GitHub account)
+
+- each image must have a caption
+
+- must use at least two 3D transforms
+
+- must transition at least 3 properties (including both 3D transforms) when hovering over an image/image container
+
+- layout should be responsive - images should float next to each other and wrap to the next line when the screen shrinks
+
+- must render/function correctly in WebKit (Chrome/Safari) & Firefox
+
+- progressively enhance the gallery - make all images & captions visible to browsers that don't support 3D transforms
+
+- go crazy - we're not worried about subtlety on this one
