@@ -1,8 +1,10 @@
 Create a CSS-only image gallery
 
-- minimum of 6 images, all of the same dimensions (search flickr for instagram?)
+- choose a theme for your gallery and title it appropriately (the weirder the better)
 
-- keep images external (don't bloat your GitHub account)
+- minimum of 6 images, all of the same dimensions
+
+- keep images external
 
 - each image must have a caption
 
@@ -12,7 +14,7 @@ Create a CSS-only image gallery
 
 - layout should be responsive - images should float next to each other and wrap to the next line when the screen shrinks
 
-- must render/function correctly in WebKit (Chrome/Safari) & Firefox
+- must render/function correctly in WebKit (Chrome/Safari) only
 
 - progressively enhance the gallery - make all images & captions visible to browsers that don't support 3D transforms
 
